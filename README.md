@@ -8,7 +8,7 @@ DuangCloud，也被称为Duang机场，是一家专业的老牌优质SS机场，
 
 DuangCloud已经全面升级后台管理内核和操作面板，并全部使用华为BGP专线，及提供10Gbps内网专线接口，不限速、不限制同时在线的设备数量。因为内网专线不过GFW，不存在被封锁的可能，
 
-DuangCloud有官方的Windows、MacOS、Android定制客户端，简单方便防止失联。111111111111
+DuangCloud有官方的Windows、MacOS、Android定制客户端，简单方便防止失联。1111111111111
 
 ## duangcloud优惠码
 
